@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "fitsauda.com",
-  description: "fitsauda is a health ecommerce company",
+  description: "fitsauda is a health ecommerce platform",
 };
 
 export default function RootLayout({
