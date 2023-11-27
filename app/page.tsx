@@ -15,7 +15,7 @@ export default function Home() {
       </div>
 
       <div className="mb-8 text-center lg:max-w-5xl lg:w-full lg:mb-0">
-        <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-2 sm:mb-4">
+        <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-2 sm:mb-4 bg-gradient-to-r from-orange-500 to-purple-800 bg-clip-text text-transparent">
           Coming Soon!
         </h1>
         <p className="text-base sm:text-lg lg:text-xl mb-4 sm:mb-8">
